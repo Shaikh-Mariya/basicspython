@@ -1,4 +1,4 @@
-# basics Python
+# Basics Python
 
 This repository contains basic Python programs.
 All programs are simple and easy to understand.
